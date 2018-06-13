@@ -25,7 +25,7 @@
             <Font name="Times New Roman" size="14.0" />
          </font>
       </Label>
-      <TextField fx:id="Weight_Text_Field" layoutX="159.0" layoutY="56.0" nodeOrientation="RIGHT_TO_LEFT" prefHeight="24.0" prefWidth="85.0">
+      <TextField fx:id="Weight_Text_Field" focusTraversable="false" layoutX="159.0" layoutY="56.0" nodeOrientation="RIGHT_TO_LEFT" prefHeight="24.0" prefWidth="85.0">
          <font>
             <Font name="Times New Roman" size="14.0" />
          </font>
